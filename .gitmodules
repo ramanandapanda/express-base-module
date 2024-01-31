@@ -1,0 +1,3 @@
+[submodule "express-users-submodule"]
+	path = express-users-submodule
+	url = https://github.com/ramanandapanda/express-users-submodule
